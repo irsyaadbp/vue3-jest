@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getFlyingSuperHeroes should be get flying super heroes 1`] = `
+[
+  {
+    "name": "Jack",
+    "powers": [
+      "shapeshifting",
+      "fly",
+    ],
+  },
+]
+`;
